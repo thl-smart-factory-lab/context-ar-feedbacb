@@ -40,9 +40,13 @@ Key features:
    For Glass EE2: ensure developer mode is enabled and the device is paired.
 
 
+## Citation
+If you use this implementation in academic work, please cite:
+
+```bibtex
 @inproceedings{pelka2025context,
   title     = {Step Into Context: Location-Aware AR Feedback for Smart Manufacturing Using Low-Cost Hardware},
-  author    = {Pelka, Mathias and Willhelmsen, Thomas},
+  author    = {Pelka, Mathias and Willemsen, Thomas},
   booktitle = {Proceedings of the International Conference on Indoor Positioning and Indoor Navigation (IPIN)},
   year      = {2025},
   note      = {Code: https://github.com/thl-smart-factory-lab/context-ar-feedback, Release v1.0.0}
